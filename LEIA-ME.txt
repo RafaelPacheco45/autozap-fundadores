@@ -1,47 +1,23 @@
-AUTOZAP FUNDADORES — 10 SITES INDEPENDENTES
+AUTOZAP FUNDADORES — 10 PÁGINAS PUBLICADAS
 
-Este pacote contém dez cópias completas do site, preparadas para publicar depois.
-O site que já está no ar não foi alterado. Nenhum DNS foi configurado.
+Site: https://fundador.autozap.log.br/
+Hospedagem: GitHub Pages, repositório RafaelPacheco45/autozap-fundadores.
+DNS: CNAME fundador para rafaelpacheco45.github.io, com proxy Cloudflare.
 
-1. PERSONALIZAR
-Abra a pasta do ID escolhido e edite o arquivo config.js em um editor de texto.
-Preencha nome e loja entre as aspas, por exemplo:
-  "nome": "Nome autorizado do lojista",
-  "loja": "Nome autorizado da loja"
-Não altere as chaves, os sinais de pontuação ou as aspas. Se o nome contiver aspas,
-use \" dentro do valor. Os campos vêm vazios de propósito, sem clientes fictícios.
-Enquanto estiverem vazios, a página mostra uma mensagem de boas-vindas genérica.
-Não há controles de edição, aviso de prévia, dados de teste ou cadastro na tela.
+Cada pasta numérica corresponde a uma página independente em /ID/.
+A raiz mostra a mesma homenagem, sem atribuição a um cliente.
 
-2. CONFERIR LOCALMENTE
-Extraia o ZIP completo. Abra index.html dentro de qualquer uma das dez pastas.
-Cada cópia inclui HTML, CSS, JavaScript e o selo original, sem dependências externas.
-Funciona sem internet. Se o navegador limitar o download local do selo, o JPEG
-original também está na pasta assets. Não é necessário instalar bibliotecas.
+PERSONALIZAR
+Edite nome e loja no config.js da pasta do cliente. Use somente dados autorizados
+para exibição pública. O manifesto é um índice; a página lê seu próprio config.js.
+Faça commit e push para main para publicar a atualização.
 
-3. PUBLICAR MAIS TARDE
-Para ter fundador.autozap.log.br/284729389/, coloque as dez pastas numéricas na
-raiz do mesmo serviço de hospedagem estática. Cada pasta tem seu próprio index.html.
-O host deve servir index.html ao abrir um diretório e normalmente acrescenta a barra
-final ao endereço. Isso deve ser conferido na implantação; não foi implantado agora.
-Também é possível publicar o conteúdo de uma única pasta como um site independente.
-O DNS aponta o subdomínio para a hospedagem, não cada número. Nenhum registro DNS
-foi criado neste trabalho. Configure HTTPS no serviço quando for publicar.
+Os campos estão vazios. Os dez endereços são posições preparadas, não prova de dez
+clientes contratados. A imagem do selo é a mesma nas dez páginas.
+Fundador é reconhecimento aos primeiros clientes, sem participação societária.
+Nenhuma página coleta ou salva dados. IDs não são senhas nem proteção de acesso.
 
-4. O QUE FOI RETIRADO
-Links externos, botões de contato, navegação de redirecionamento, aviso de prévia,
-campos de edição e dados demonstrativos. O único link restante baixa o selo local.
-Foram preservados o visual preto/azul, o texto de boas-vindas, a explicação do AutoBook,
-as animações suaves, a acessibilidade e a opção de redução de movimento.
-
-5. CUIDADOS
-Use somente nomes que o lojista autorizou tornar públicos. Não coloque senha,
-CPF, telefone privado ou dados sensíveis em config.js: arquivos estáticos são públicos
-quando o site é publicado. Os IDs não são proteção de acesso. As dez pastas são
-posições preparadas, não prova de dez clientes contratados. O selo é o original comum,
-não um certificado individual de contratação. Nenhuma página coleta ou salva dados.
-
-O manifesto.json relaciona cada pasta ao seu ID. Ele é apenas um índice de organização;
-a página lê o config.js da própria pasta. Não há compartilhamento de configuração entre
-as cópias. Para atualizar uma pessoa, edite apenas a pasta correspondente.
-
+VERIFICAÇÃO EM 23/10/2026
+Página principal e dez páginas individuais disponíveis por HTTPS.
+Verificados HTML, config.js, app.js, CSS e JPEG nas dez pastas.
+As dez imagens publicadas coincidem com os arquivos locais por SHA-256.
