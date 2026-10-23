@@ -1,0 +1,97 @@
+{
+  "publicado": false,
+  "dominio_planejado": "fundador.autozap.log.br",
+  "observacao": "IDs de organização, não senhas nem tokens de segurança. Nenhum cliente real cadastrado.",
+  "sites": [
+    {
+      "ordem": 1,
+      "id": "284729389",
+      "pasta": "284729389",
+      "arquivo_configuracao": "284729389/config.js",
+      "caminho_planejado": "/284729389/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 2,
+      "id": "693158247",
+      "pasta": "693158247",
+      "arquivo_configuracao": "693158247/config.js",
+      "caminho_planejado": "/693158247/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 3,
+      "id": "417862935",
+      "pasta": "417862935",
+      "arquivo_configuracao": "417862935/config.js",
+      "caminho_planejado": "/417862935/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 4,
+      "id": "852394671",
+      "pasta": "852394671",
+      "arquivo_configuracao": "852394671/config.js",
+      "caminho_planejado": "/852394671/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 5,
+      "id": "326975148",
+      "pasta": "326975148",
+      "arquivo_configuracao": "326975148/config.js",
+      "caminho_planejado": "/326975148/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 6,
+      "id": "741583962",
+      "pasta": "741583962",
+      "arquivo_configuracao": "741583962/config.js",
+      "caminho_planejado": "/741583962/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 7,
+      "id": "965247813",
+      "pasta": "965247813",
+      "arquivo_configuracao": "965247813/config.js",
+      "caminho_planejado": "/965247813/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 8,
+      "id": "538619427",
+      "pasta": "538619427",
+      "arquivo_configuracao": "538619427/config.js",
+      "caminho_planejado": "/538619427/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 9,
+      "id": "179436852",
+      "pasta": "179436852",
+      "arquivo_configuracao": "179436852/config.js",
+      "caminho_planejado": "/179436852/",
+      "nome": "",
+      "loja": ""
+    },
+    {
+      "ordem": 10,
+      "id": "628751394",
+      "pasta": "628751394",
+      "arquivo_configuracao": "628751394/config.js",
+      "caminho_planejado": "/628751394/",
+      "nome": "",
+      "loja": ""
+    }
+  ]
+}

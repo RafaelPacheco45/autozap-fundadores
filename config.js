@@ -1,0 +1,1 @@
+window.AUTOZAP_FUNDADOR = Object.freeze({nome: "", loja: ""});
